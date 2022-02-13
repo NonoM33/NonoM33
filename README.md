@@ -6,7 +6,7 @@
   <img align="center" width="60%" alt="GIF" src="https://media4.giphy.com/media/13GIgrGdslD9oQ/giphy.gif?cid=ecf05e47dxt8crfq0ffbc3u5d3wun57s3q18m8ry0feb5fwh&rid=giphy.gif"/>
 </p>
 
-### Pourquoi développeur web et pas chirurgien ?
+### Pourquoi développeur iOS et pas chirurgien ?
 
 J'ai rapidement été attiré par le développement,notamment Mobile et j'ai peur du sang donc... 💨 (naturellement) je me suis dirigé vers le mobile un mélange de **programmation** et
 de **design** deux éléments qui m'intéressent **grandement.**
