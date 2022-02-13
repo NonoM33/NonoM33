@@ -41,7 +41,7 @@ function God() {
 
 ## Et tu as fait quoi alors ?
 
-**J'ai développé des projets entièrement de l'élaboration de la maquette au déploiement et découvert une multitude de technologies.**<br/>
+**J'ai passé une maîtrise concepteur développeur logiciel et je suis maintenant en free-lance.**<br/>
 
 En plus, comme j'ai appris par passion avec **mon temps** et **mes économies** 💳, je sais par avance que pour tous les projets professionnels, 
 je suis **surmotivé** à l'idée de **créer** le projet d'une personne et de **l'aider**.<br/>
