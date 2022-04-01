@@ -31,7 +31,7 @@ function God() {
   - [x] Apprendre chaque jour est devenu une habitude
   - [x] Devoir résoudre seul des problèmes est une obligation
   - [x] Savoir effectuer des recherches
-  - [ ] Commencer 42, puisque les 4 items précédents sont leurs visions
+  - [x] J'ai validé une maitrise (bac +4) em 2022
   ``` 
   Error: Too many re-renders. God limits number of
   renders to prevent an infinite loop of stupidity.
